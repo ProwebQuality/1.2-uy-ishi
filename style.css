@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+body{
+    background-color: aqua;
+}
+h1,h2{
+    background-color: rgb(4, 0, 128);
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+}
+p{
+    width: 1000px;
+    margin: 30px auto;
+    background-color: greenyellow;
+    color: purple;
+    border: 10px solid red;
+    padding: 15px;
+    border-radius: 30px;
+}
+img,video,iframe{
+    display: block;
+    margin: 30px auto;
+}
+ul{
+    text-align: center;
+    margin-bottom: 15px;
+}
+a{
+    color: red;
+    font-size: 20px;
+}
+a img{
+    display: inline;
+}
