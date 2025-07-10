@@ -17,10 +17,12 @@ p{
     width: 1000px;
     margin: 30px auto;
     background-color: greenyellow;
-    color: purple;
+    color: #000;
     border: 10px solid red;
     padding: 15px;
     border-radius: 30px;
+    font-size: 18px;
+    text-align: justify;
 }
 img,video,iframe{
     display: block;
